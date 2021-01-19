@@ -1,0 +1,24 @@
+body {
+  color: #EEE;
+  background-color: #515151;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  color: #FFF;
+}
+
+.page-title,
+.post-title,
+.post-title a {
+  color: #FFF;
+}
+
+.masthead-title {
+  color: #FFF;
+}
+.masthead-title a {
+  color: #FFF;
+}
+.masthead-title small {
+  color: #FFA500;
+}
